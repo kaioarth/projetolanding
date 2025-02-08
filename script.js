@@ -8,6 +8,7 @@ function toggleMode() {
 
   html.classList.toggle("light")
 
+  
   //pegar a tag da img
   const img = document.querySelector("#profile img")
 
